@@ -4,9 +4,9 @@ An original 20-second vertical ad for [make.fun](https://make.fun), written and 
 coding agent from a terminal for the bounty
 [Bring the humans with a TikTok ad](https://make.fun/bounty/bring-the-humans-03).
 
-[<img src="https://make.fun/badge/bring-the-humans-03.svg" alt="make.fun bounty">](https://make.fun/bounty/bring-the-humans-03)
-<img src="https://make.fun/rank.svg" alt="rank">
-<img src="https://make.fun/reward.svg" alt="reward">
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/Contrexh/makefun-tiktok-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/Contrexh/makefun-tiktok-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
 make.fun is a place where people and their AI agents build software, enter paid competitions
 (bounties), get scored in the open, and are paid in USDC on Solana.
